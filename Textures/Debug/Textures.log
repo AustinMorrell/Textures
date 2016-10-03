@@ -1,5 +1,4 @@
-﻿  main.cpp
-  Textures.cpp
-  Generating Code...
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+FBXLoader_d.lib(FBXFile.obj) : warning LNK4099: PDB 'FBXFix.pdb' was not found with 'FBXLoader_d.lib(FBXFile.obj)' or at 'C:\Users\Austin.Morrell.AIE\Desktop\Textures\Debug\FBXFix.pdb'; linking object as if no debug info
   Textures.vcxproj -> C:\Users\Austin.Morrell.AIE\Desktop\Textures\Debug\Textures.exe
   Textures.vcxproj -> C:\Users\Austin.Morrell.AIE\Desktop\Textures\Debug\Textures.pdb (Partial PDB)
