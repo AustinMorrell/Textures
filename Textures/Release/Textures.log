@@ -1,0 +1,10 @@
+﻿  Gizmos.cpp
+  main.cpp
+  Textures.cpp
+  gl_core_4_4.c
+  Generating code
+  All 2425 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+FBXLoader.lib(FBXFile.obj) : warning LNK4099: PDB 'FBXFix.pdb' was not found with 'FBXLoader.lib(FBXFile.obj)' or at 'C:\Users\Austin.Morrell.AIE\Desktop\Textures\Release\FBXFix.pdb'; linking object as if no debug info
+  Textures.vcxproj -> C:\Users\Austin.Morrell.AIE\Desktop\Textures\Release\Textures.exe
+  Textures.vcxproj -> C:\Users\Austin.Morrell.AIE\Desktop\Textures\Release\Textures.pdb (Full PDB)
